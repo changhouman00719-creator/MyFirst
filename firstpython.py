@@ -1,2 +1,2 @@
 # display output 
-print ("Hello World")
+print ("Hello Git")
